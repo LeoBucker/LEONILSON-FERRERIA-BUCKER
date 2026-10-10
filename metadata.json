@@ -1,0 +1,8 @@
+{
+  "name": "VocalCloner AI - Análise e Replicação de Voz",
+  "description": "Análise acústica profunda de tom, ritmo e timbre de áudio com síntese e réplica de estilo vocal usando Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
